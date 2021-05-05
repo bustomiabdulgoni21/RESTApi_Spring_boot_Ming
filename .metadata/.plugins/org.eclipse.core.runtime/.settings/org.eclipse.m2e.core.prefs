@@ -1,0 +1,6 @@
+eclipse.m2.problem.duplicateParentGroupId=ignore
+eclipse.m2.problem.duplicateParentVersion=ignore
+eclipse.m2.problem.notCoveredMojoExecution=ignore
+eclipse.m2.problem.outofdateProjectConfig=ignore
+eclipse.m2.problem.overridingManagedVersion=ignore
+eclipse.preferences.version=1
